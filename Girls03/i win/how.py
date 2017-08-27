@@ -1,0 +1,5 @@
+print "cook"
+print "wash"
+print "sweep"
+print "learn"
+print "pray"
