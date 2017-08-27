@@ -1,0 +1,5 @@
+print "bag"
+print "shoe"
+print "sandals"
+print "cloth"
+print "laptop"

@@ -1,0 +1,7 @@
+print'Eunice'
+print'Priscilla'
+print 'Banana'
+print'Peach'
+print'orange'
+print'Mango'
+print'Water melon'
