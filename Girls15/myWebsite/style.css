@@ -1,0 +1,16 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    background-color: red;
+    text-align: center;
+    font-size: 6em;
+    border: 10px dashed beige;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}

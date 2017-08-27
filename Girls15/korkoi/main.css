@@ -1,0 +1,36 @@
+h1{
+    background-color: hotpink;
+    color: mediumblue;
+}
+h2{
+    background-color: coral;
+    color:blueviolet;
+}
+h3{
+    background-color: orange;
+    color: firebrick;
+}
+h4{
+    background-color:skyblue;
+    color: saddlebrown;
+}
+h5{
+    background-color: lawngreen;
+    color: crimson;
+}
+.true{color: red;}
+.yes{color: navy;}
+.no{color: olive;}
+th{
+    background-color: cyan;
+}
+ul{
+    color: blue;
+}
+td{
+    background-color: thistle;
+    color: red;
+}
+ol{
+color: darkred;
+}

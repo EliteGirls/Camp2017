@@ -1,0 +1,32 @@
+body{
+    background-color:coral;
+
+    }
+h1{
+    background-color: darkmagenta;
+    color: red;
+}
+h2{
+    background-color: gold;
+    color: darkcyan;
+}
+h3{
+    background-color: cyan;
+color: hotpink;
+}
+h4{
+    background-color: red;
+    color: lawngreen;
+}
+h5{
+    background-color: greenyellow;
+    color:green;
+}
+marquee{
+    background-color: yellow;
+    color: forestgreen;
+}
+p{
+    background-color: salmon;
+    color: navy;
+}
