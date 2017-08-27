@@ -1,0 +1,36 @@
+ body
+{
+    background-color: palevioletred;
+}
+img{
+    height: 100;
+    width:100;
+}
+a {
+    color: red
+}
+h1{
+    color:green
+}
+h2{color:pink}
+h3{color:greenyellow}
+h4{color:yellow}
+h5{color:orange}
+h6{color:brown}
+
+.a {
+    color: red}
+}
+.b{
+    color: green
+} 
+.c{
+    color: blue
+}
+.d{
+    color: red
+}
+ 
+.e{
+    color:green
+}
