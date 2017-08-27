@@ -1,0 +1,6 @@
+print "A-Always"
+print "B-Be"
+print "C-Cool"
+print "D-Don't"
+print "E-Ego"
+print "F-Friends and Families"

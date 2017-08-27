@@ -1,0 +1,11 @@
+#number=23
+#guess =input ("Enter an integer:")
+#if guess == number:
+	print "Yeeey,you guessed it"
+elif guess < number:
+	#print "Not accepted.It is higher than than that"
+else:
+	print "It is lower"
+	print "Done"
+	
+	

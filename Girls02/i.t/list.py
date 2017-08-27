@@ -1,0 +1,5 @@
+print "orange"
+print "apple"
+print "banana"
+print "pineapple"
+print "mango"

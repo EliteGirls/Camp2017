@@ -1,0 +1,19 @@
+body{background-color: lime;}
+img{
+    height: 400;
+    width:400;   
+} 
+
+a{
+    color: hotpink;
+}
+h1{
+    background-color:cyan; 
+}
+
+.a{color:red;
+}
+.b{color:green;
+}
+.c{color:blue;
+}

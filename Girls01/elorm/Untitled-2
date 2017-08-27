@@ -1,0 +1,19 @@
+def lessThan(age)
+    if age < 16:
+        print "go back"
+    else:
+        print "enter"
+        print "WELCOME TO MY SHOP"
+        print "We sell malt and it is four cedis"
+        amount = input("How much do you have")
+        if amount > 4:
+            change(amount,4)
+        else:
+            print "your money is not sufficient"
+ 
+def change(moneyGiven,price) 
+    change = moneyGiven - price
+    print "Your change is " + str(change)
+    
+userAge = input("How old are you")
+lessThan(userAge)

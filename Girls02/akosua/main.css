@@ -1,0 +1,16 @@
+body{background: orange;}
+img{height: 200px;
+	width: 1000px;}
+h1{background: red;}
+h2{background: yellow;}
+h3{background: green;}
+h4{background: blue;}
+h5{background: purple;}
+h6{background: pink;}
+a{color: red;}
+
+p{color: deeppink}
+
+.true{color:red;}
+.yes{color:green;}
+.no{color:blue;}
