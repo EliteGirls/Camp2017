@@ -1,0 +1,2 @@
+print "had"
+onename = 
